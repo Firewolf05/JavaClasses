@@ -13,7 +13,7 @@ public class Ask4 {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        System.out.println("Give three numbers: ");
+        System.out.println("Give three numbers:");
         int num1=s.nextInt();
         int num2=s.nextInt();
         int num3=s.nextInt();
