@@ -2,7 +2,7 @@ package JavaClasses.class2;
 import java.util.Scanner;
 
 public class Ask4 {
-    public class MyMethods {
+    public static class MyMethods {
         public static int findmax(int a, int b, int c) {
             int max = a;
             if (max<b) max=b;
