@@ -13,6 +13,7 @@ public class DemoSerialize {
 
 //        Student s2 = deserializeStudent();
 //        System.out.println(s2);
+        
     }
 
     // to serialize/deserialize an object, its class has to implement serializable interface
